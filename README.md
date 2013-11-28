@@ -2,4 +2,4 @@
 
 This is the sample application for
 the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Michael Harti](http://michaelgartl.com/).
+by [spearsky](http://michaelgartl.com/).
